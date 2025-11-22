@@ -3,8 +3,9 @@
     padding: 0px;
 }
 body{
-    background-color: rgb(1, 1, 57);
-
+    background: url(https://images.pexels.com/photos/11546831/pexels-photo-11546831.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #temp{
