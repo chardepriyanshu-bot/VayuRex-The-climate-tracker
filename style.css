@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(1, 1, 57);
+
+}
+
+#temp{
+    font-size: 100px;
+}
+#main{
+     height: 80vh;
+}
+video{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: -1;
+}
+.textColor{
+    color:brown;
+}
